@@ -52,7 +52,6 @@ Projections in the business case (subscribers, receipts, return on investment) a
 - First-upgrade payments are incompletely recorded, so I report recorded renewal receipts, not revenue or profit. There is no cost data.
 - The previous interface was not served after June 2025, so old against new is not a controlled comparison.
 - Volumes are small (about 34 checkout starts and 10 new Pro subscriptions a month), so tests are directional and benefits can only be judged months after delivery.
-- Costs (AUD 400 a person-day, 96% collection) are assumptions for Finance to replace.
 
 ## Repository layout
 

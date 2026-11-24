@@ -26,7 +26,7 @@ I recommend approving **Wave 0**, which restates the baselines and confirms what
 | `03_05_checkout_process_before_asis_tobe.png` | Checkout process before June 2025, as observed since, and as I propose it |
 | `process_renewal_asis_tobe.png`, `process_sync_asis_tobe.png` | AS-IS and TO-BE diagrams for renewal and Android sync |
 
-## Headline evidence (observed)
+## Present State problem (As-Is)
 
 | Measure | Before | After | Period and definition |
 |---|---|---|---|
